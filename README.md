@@ -1,0 +1,1 @@
+# cargo_b2c-privacy-policy
